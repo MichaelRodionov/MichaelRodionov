@@ -1,16 +1,11 @@
-### Hi there 👋
+# Hi everybody! My name is Michael👋 
+##   *Python-developer student* 🐍
+###      Saint-Petersburg📍
+____
+[My social website page VK](https://vk.com/michaelrodionov96)
 
-<!--
-**MichaelRodionov/MichaelRodionov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Instagram](https://www.instagram.com/michaelrodionov)
+____
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelRodionov)](https://github.com/anuraghazra/github-readme-stats)
+____
+[![codewars](https://www.codewars.com/users/Mikolinho96/badges/small)](https://www.codewars.com/users/Mikolinho96)<br><br>
