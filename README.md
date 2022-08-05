@@ -2,9 +2,9 @@
 ##   *Python-developer student* 🐍
 ###      Saint-Petersburg📍
 ____
-[My social website page VK](https://vk.com/michaelrodionov96)
-
-[Instagram](https://www.instagram.com/michaelrodionov)
+:computer: ***My Social Networks:*** 
+ [VK](https://vk.com/michaelrodionov96),
+ [Instagram](https://www.instagram.com/michaelrodionov)
 ____
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelRodionov)](https://github.com/anuraghazra/github-readme-stats)
 ____
