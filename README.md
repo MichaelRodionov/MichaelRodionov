@@ -10,7 +10,7 @@ def get_introduction(full_name, profession)
     
 print(get_introduction(full_name, profession))
 ```
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%3763c2&lines=My+name+is+Michael+Rodionov)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=21D2F7&lines=My+name+is+Michael+Rodionov+%F0%9F%98%8E)](https://git.io/typing-svg)
 ##   *Python developer student* 🐍
 ###      Saint-Petersburg📍
 ____
