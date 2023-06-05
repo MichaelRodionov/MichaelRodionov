@@ -31,7 +31,7 @@ ___
     <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
   </a>
   <a href="https://flask.palletsprojects.com/en/2.3.x/">
-    <img src="https://img.shields.io/badge/flask-FFFFFF.svg?style=for-the-badge&logo=flask&logoColor=black"/>
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
   </a>
 <h3><b>Database</b></h3>
   <a href="https://www.postgresql.org/docs/">
