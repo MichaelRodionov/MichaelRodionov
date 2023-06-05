@@ -1,5 +1,6 @@
-<h3 align="center">Hi, everybody! I am Python developer 🐍👋</h3>
-<h4 align="center">Location: Saint-Petersburg📍 🐍👋</h4>
+<h1 align="center">Hi, everybody! I'm Michael 👋</h1>
+<h3 align="center">Python backend developer 🐍</h3>
+<h3 align="center">Saint-Petersburg📍</h3>
 
 ___
 
