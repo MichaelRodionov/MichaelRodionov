@@ -13,7 +13,7 @@ ___
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
   <a href="https://m.vk.com/michaelrodionov96">
-    <img src="https://img.shields.io/badge/VKontakte-%231DA1F2.svg?style=for-the-badge&logo=VK&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VK-%231DA1F2.svg?style=for-the-badge&logo=VK&logoColor=white"/>
   </a>
 </div>
 
