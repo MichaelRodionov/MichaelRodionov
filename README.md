@@ -1,6 +1,8 @@
 <h3 align="center">Hi, everybody! I am Python developer 🐍👋</h3>
 <h4 align="center">Location: Saint-Petersburg📍 🐍👋</h4>
+
 ___
+
 <div id="badges" align="center">
 <h3>🌐 Socials</h3>
   <a href="https://www.linkedin.com/in/michael-rodionov-449497253/">
@@ -15,6 +17,7 @@ ___
 </div>
 
 ___
+
 <div id="badges" align="center">
 <h3>Programming language</h3>
   <a href="https://www.python.org/">
@@ -76,6 +79,7 @@ ___
 </div>
 
 ___
+
 <div align="center">  
 
   ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelRodionov)
